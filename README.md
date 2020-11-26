@@ -1,4 +1,4 @@
-### Hello , I'm Lucas 👋
+<h1 style="text-align: center;>Hello , I'm Lucas 👋</h1>
 
 Come to know me better:
 
