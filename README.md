@@ -7,6 +7,6 @@ Come to know me better:
 - 👯 I'm looking to collaborate on: OpenSource Projects.
 
 <p style="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&layout=compact">
 </p>
