@@ -10,5 +10,5 @@ Come to know me better:
 <img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v">
 </p> 
