@@ -7,9 +7,6 @@ Come to know me better:
 - 👯 I'm looking to collaborate on: OpenSource Projects.
 
 Skills
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&langs_count=999">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true">
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&langs_count=999">
