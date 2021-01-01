@@ -9,7 +9,7 @@ Come to know me better:
 Skills
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&layout=compact&hide_border=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true">
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&layout=compact&hide_border=true&langs_count=999">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&langs_count=999">
 </p>
