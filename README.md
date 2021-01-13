@@ -7,7 +7,7 @@
 Come to know me better:
 
 - 🔭 I am currently working on: A Project called Dash 8.
-- 🌱 I'm currently learning: Dart with Framework Flutter.
+- 🌱 I'm currently learning: C and Dart with Framework Flutter.
 - 👯 I'm looking to collaborate on: OpenSource Projects.
 
 Skills
