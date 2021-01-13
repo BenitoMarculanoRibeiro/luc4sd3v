@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Lucas 👋</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/County-Brasil-green">
-    <img src="https://img.shields.io/badge/Github-Luc4sD3v-orange">
+    <img src="https://img.shields.io/badge/Github-luc4sd3v-orange">
 </p>
 
 Come to know me better:
