@@ -13,12 +13,12 @@ Come to know me better:
 Skills
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true">
 </p>
 <br />
 
 Most Used Langs
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&theme=dark&langs_count=999">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&langs_count=999">
 </p>
