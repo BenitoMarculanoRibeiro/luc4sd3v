@@ -6,7 +6,7 @@
 
 Come to know me better:
 
-- 🔭 I am currently working on: A Project called <a href="https://github.com/luc4sd3v/locapp_cep">LocApp CEP</a>.
+- 🔭 I am currently working on: A Project called <a href="https://github.com/luc4sd3v/locapp_cep" style="color: purple">LocApp CEP</a>.
 - 🌱 I'm currently learning: C and Dart with Framework Flutter.
 - 👯 I'm looking to collaborate on: OpenSource Projects.
 
