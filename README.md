@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Lucas 👋</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Country-Brazil?color=purple&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Github-luc4sd3v?color=purple&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Country-Brazil-purple?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Github-luc4sd3v-purple?&style=for-the-badge" />
     <img src="https://img.shields.io/github/followers/luc4sd3v?color=purple&style=for-the-badge" />
 </p>
 
