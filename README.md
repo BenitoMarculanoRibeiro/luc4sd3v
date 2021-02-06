@@ -12,6 +12,20 @@ Come to know me better:
 - 👯 I'm looking to collaborate on: OpenSource Projects.
 
 Skills
+<p align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" />  
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" />  
+</p>
+<br />
+
+Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true">
