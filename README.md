@@ -13,15 +13,15 @@ Come to know me better:
 
 Skills
 <p align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" />  
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </p>
 <br />
 
