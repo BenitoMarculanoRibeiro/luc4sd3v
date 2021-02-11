@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Lucas <img src="https://github.com/luc4sd3v/luc4sd3v/raw/master/wave.gif" width="50px"></h1>
+<h1 align="center">Hello , I'm Lucas <img src="https://raw.githubusercontent.com/luc4sd3v/luc4sd3v/main/wave.gif" width="50px"></h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Country-Brazil-purple?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Github-luc4sd3v-purple?&style=for-the-badge" />
