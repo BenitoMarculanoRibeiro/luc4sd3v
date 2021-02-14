@@ -7,7 +7,7 @@
 
 Come to know me better:
 
-- 🔭 I am currently working on: A Project called <a href="https://github.com/luc4sd3v/locapp_cep">LocApp CEP</a>.
+- 🔭 I am currently working on: A Project called <a href="https://github.com/merkun-bot">Merkun</a>.
 - 🌱 I'm currently learning: C.
 - 👯 I'm looking to collaborate on: OpenSource Projects.
 
