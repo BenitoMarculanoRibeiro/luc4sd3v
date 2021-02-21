@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Lucas <img src="https://raw.githubusercontent.com/luc4sd3v/luc4sd3v/main/wave.gif" width="50px"></h1>
+<h1 align="center">Hello , I'm Lucas <img src="https://raw.githubusercontent.com/luc4sd3v/luc4sd3v/main/wave.gif" width="50px" /></h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Country-Brazil-purple?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Github-luc4sd3v-purple?&style=for-the-badge" />
@@ -10,6 +10,7 @@ Come to know me better:
 - 🔭 I am currently working on: A Project called <a href="https://github.com/merkun-bot">Merkun</a>.
 - 🌱 I'm currently learning: C.
 - 👯 I'm looking to collaborate on: OpenSource Projects.
+<br />
 
 Skills
 
@@ -26,15 +27,22 @@ Skills
 </p>
 <br />
 
+Current OS
+<p align="center">
+<img style="margin: 10px" src="https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png" alt="SO" height="50" />
+</p>
+<br />
+
+
 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" />
 </p>
 <br />
 
 Most Used Langs
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&layout=compact&langs_count=999&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&layout=compact&langs_count=999&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" />
 </p>
