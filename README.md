@@ -30,6 +30,8 @@ Others
 <p align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/luc4sd3v/luc4sd3v/main/GitHub-Mark-Light-120px-plus.png" alt="GitHub" height="50" />
 <br />
 
 Current OS
