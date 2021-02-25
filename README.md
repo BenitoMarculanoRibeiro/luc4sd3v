@@ -8,7 +8,7 @@
 Come to know me better:
 
 - 🔭 I am currently working on: A Project called <a href="https://github.com/merkun-bot">Merkun</a>.
-- 🌱 I'm currently learning: Kotlin.
+- 🌱 I'm currently learning: Java.
 - 👯 I'm looking to collaborate on: OpenSource Projects.
 <br />
 
@@ -21,7 +21,7 @@ Languages
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 </p>
 <br />
 
